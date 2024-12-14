@@ -75,7 +75,7 @@ Thank you for using our Biomedical Imaging with DDPM project. We hope it helps y
 If you use this code or find our work helpful, please cite our paper:
 
 ```
-@article{yourname2024biomedical,
+<!-- @article{yourname2024biomedical,
     title={Biomedical Imaging with Denoising Diffusion Probabilistic Models},
     author={Your Name and Collaborator Name},
     journal={Journal of Biomedical Imaging},
@@ -84,7 +84,7 @@ If you use this code or find our work helpful, please cite our paper:
     pages={123-456},
     publisher={Biomedical Publishing}
 }
-```
+``` -->
 
 ## Acknowledgements
 
