@@ -4,3 +4,4 @@ mnist_data/
 mnist_dataset1.py
 model2.py
 diffusion_env/
+data/
